@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/mtomison/Sleep_Analysis/blob/gh-pages/Schema.jpg)
+[Link](url) and ![Image](https://github.com/mtomison/Sleep_Analysis/blob/main/Schema.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
